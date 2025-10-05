@@ -5,7 +5,8 @@ import { Lato } from "next/font/google";
 import { Poppins } from "next/font/google";
 import Navbar from "@/components/Navigation";
 import Footer from "../components/Footer"
-import { ThemeProvider } from "../components/themeProvider"; // <-- 1. IMPORT THE PROVIDER
+import { ThemeProvider } from "../components/themeProvider";
+import { Toaster } from 'react-hot-toast'; // <-- 1. IMPORT THE PROVIDER
 const poppins = Poppins({
   subsets: ["latin"],
   weight: ["100", "300", "400", "500", "600", "700", "900"], // pick weights you need
@@ -31,7 +32,7 @@ export const metadata: Metadata = {
   description: "Official portal of the Alumni Training and Placement Affairs Council (ATPAC) at SVNIT Surat. Explore placement updates, internships, career resources, and alumni networks for students and recruiters.",
   icons: {
     icon: "/favicon.ico",
-    apple: "/favicon.ico", 
+    apple: "/favicon.ico",
   },
 };
 
@@ -45,7 +46,8 @@ export default function RootLayout({
       <body
         className={`${poppins.className} antialiased`}
       >
-       <ThemeProvider 
+        <Toaster position="top-center" reverseOrder={false} />
+        <ThemeProvider
           attribute="class"
           disableTransitionOnChange
         >
