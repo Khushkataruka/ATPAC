@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled files
+dist/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store

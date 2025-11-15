@@ -1,0 +1,178 @@
+[
+    {
+    "name": "Premier Tissues",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "1035972",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Toyo Ink",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "6",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Air Liquide E&C",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "8",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Nayara Energy Ltd.",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "8.5",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Prozeal Green Energy",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "5.00/5.50",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "26 Miles capital",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "9",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "TUMC (TECHCOMM URBAN MANAGEMENT CONSULTANTS AND SERVICE PROVIDERS)",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "4.2",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Systra",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "5.5",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Aakash Education",
+    "jobTitle": "Unspecified Role",
+    "type": "Full-time",
+    "package": "7.25-9.00",
+    "location": "Unspecified",
+    "minCgpa": "Not specified",
+    "batch": "2024-25"
+    },
+    {
+    "name": "Innovate Solutions",
+    "jobTitle": "Junior Software Developer",
+    "type": "Full-time",
+    "package": "12",
+    "location": "Bengaluru",
+    "minCgpa": "8.0",
+    "batch": "2024-25",
+    "sector": "Information Technology",
+    "website": "https://www.google.com/search?q=https://www.innovatesolutions.com",
+    "logoURL": "https://www.google.com/search?q=https://placehold.co/100x100/AEC6CF/000000%3Ftext%3DIS"
+    },
+    {
+    "name": "Apex Analytics",
+    "jobTitle": "Data Analyst Intern",
+    "type": "Internship",
+    "package": "₹40,000 per month",
+    "location": "Hyderabad",
+    "minCgpa": "7.5",
+    "batch": "2024-25",
+    "sector": "Analytics"
+    },
+    {
+    "name": "Quantum Robotics",
+    "jobTitle": "Robotics Engineer",
+    "type": "Full-time",
+    "package": "15",
+    "location": "Mumbai",
+    "minCgpa": "8.5",
+    "batch": "2024-25",
+    "sector": "Robotics"
+    },
+    {
+    "name": "Green Earth Energy",
+    "jobTitle": "Environmental Engineer",
+    "type": "Full-time",
+    "package": "9.5",
+    "location": "Chennai",
+    "minCgpa": "7.2",
+    "batch": "2024-25",
+    "sector": "Energy"
+    },
+    {
+    "name": "Swift Logistics",
+    "jobTitle": "Supply Chain Intern",
+    "type": "Internship",
+    "package": "₹35,000 per month",
+    "location": "Pune",
+    "minCgpa": "6.8",
+    "batch": "2024-25",
+    "sector": "Logistics"
+    },
+    {
+    "name": "DataBridge Technologies",
+    "jobTitle": "Full Stack Developer",
+    "type": "Full-time",
+    "package": "11.5",
+    "location": "Gurugram",
+    "minCgpa": "8.2",
+    "batch": "2024-25",
+    "sector": "Information Technology",
+    "website": "https://www.google.com/search?q=https://www.databridge.com"
+    },
+    {
+    "name": "Fusion Financials",
+    "jobTitle": "Financial Associate",
+    "type": "Full-time",
+    "package": "10",
+    "location": "Ahmedabad",
+    "minCgpa": "7.5",
+    "batch": "2024-25",
+    "sector": "Financial Services"
+    },
+    {
+    "name": "MediConnect Solutions",
+    "jobTitle": "Health Informatics Specialist",
+    "type": "Full-time",
+    "package": "8.75",
+    "location": "Noida",
+    "minCgpa": "7.1",
+    "batch": "2024-25",
+    "sector": "Healthcare Technology"
+    },
+    {
+    "name": "EduQuest Innovations",
+    "jobTitle": "Content Creator Intern",
+    "type": "Internship",
+    "package": "₹25,000 per month",
+    "location": "Delhi",
+    "minCgpa": "7.0",
+    "batch": "2024-25",
+    "sector": "Education Technology",
+    "website": "https://www.google.com/search?q=https://www.eduquest.com",
+    "logoURL": "https://www.google.com/search?q=https://placehold.co/100x100/F4C2C2/000000%3Ftext%3DEQ"
+    }
+    ]
